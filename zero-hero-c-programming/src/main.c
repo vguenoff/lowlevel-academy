@@ -1,7 +1,9 @@
-#include <stdio.h>
 // invoking the preprocessor
 // copying the header file in out code
 // giving us functions like printf
+#include <stdio.h>
+
+// include local file header
 #include "math.h"
 
 int main() {
