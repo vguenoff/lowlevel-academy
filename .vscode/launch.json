@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C Debug",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/v1/Documents/2024/lowlevel-academy/zero-hero-c-programming/src",
+      "program": "/Users/v1/Documents/2024/lowlevel-academy/zero-hero-c-programming/output"
+    }
+  ]
+}
