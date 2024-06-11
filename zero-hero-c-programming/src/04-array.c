@@ -6,7 +6,8 @@
 
 int array04() {
   printf("04 array\n");
-
+  // Array is a block of memory where the type of the memory
+  // describes how big each element of the array is
   int ids[MAX_IDS] = {0, 1, 2};
 
   // let the compiler infer the array length
