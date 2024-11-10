@@ -4,7 +4,7 @@ int conditionalStatements06() {
   printf("06 conditional statements\n");
 
   int temp;
-  printf("1234 What temperature is it? ");
+  printf("What temperature is it? ");
   scanf("%d", &temp);
 
   if (temp >= 70) {
