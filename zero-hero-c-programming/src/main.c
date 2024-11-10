@@ -1,7 +1,8 @@
 // include local file header
 // #include "04-array.h"
 // #include "05-strings.h"
-#include "06-conditional-statements.h"
+// #include "06-conditional-statements.h"
+#include "07-loops.h"
 
 // #include "math.h"
 // invoking the preprocessor
@@ -12,7 +13,8 @@
 int main() {
   // array04();
   // strings05();
-  conditionalStatements06();
+  // conditionalStatements06();
+  loops07();
 
   return 0;
 }
