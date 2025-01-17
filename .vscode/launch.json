@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/v1/_projects/lowlevel-academy/zero-hero-c-programming/src",
-      "program": "/Users/v1/_projects/lowlevel-academy/zero-hero-c-programming/output"
+      "cwd": "/Users/vg1/_projects/c/lowlevel-academy/zero-hero-c-programming/src",
+      "program": "/Users/vg1/_projects/c/lowlevel-academy/zero-hero-c-programming/output"
     }
   ]
 }
