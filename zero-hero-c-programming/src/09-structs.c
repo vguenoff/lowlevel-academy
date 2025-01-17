@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int structs09() {
-  printf("09 structs\n");
+    printf("09 structs\n");
 
-  return 0;
+    return 0;
 }
