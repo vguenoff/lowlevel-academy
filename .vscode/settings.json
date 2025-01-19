@@ -1,6 +1,7 @@
 {
   "cSpell.words": ["keysym", "SDLK", "WINDOWPOS"],
   "files.associations": {
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "09-structs.h": "c"
   }
 }

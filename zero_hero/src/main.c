@@ -1,3 +1,9 @@
+// #include "math.h"
+// invoking the preprocessor
+// copying the header file in out code
+// giving us functions like printf
+#include <stdio.h>
+
 // include local file header
 // #include "04-array.h"
 // #include "05-strings.h"
@@ -6,12 +12,6 @@
 // #include "08-functions.h"
 #include "09-structs.h"
 
-// #include "math.h"
-// invoking the preprocessor
-// copying the header file in out code
-// giving us functions like printf
-#include <stdio.h>
-
 // Compilation Process
 // - Preprocessor
 // - Compilation
@@ -19,12 +19,12 @@
 // - Linking
 
 int main(int argc, char *argv[]) {
-  // array04();
-  // strings05();
-  // conditionalStatements06();
-  // loops07();
-  // functions08();
-  structs09();
+    // array04();
+    // strings05();
+    // conditionalStatements06();
+    // loops07();
+    // functions08();
+    structs09();
 
-  return 0;
+    return 0;
 }
